@@ -1,1 +1,1 @@
-function addElementToBeginningOfArray(array, element){return[...array,element]}
+function addElementToBeginningOfArray(array, element){return[element.unshift('array','element')]}
