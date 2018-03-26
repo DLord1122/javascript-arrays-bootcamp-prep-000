@@ -1,1 +1,1 @@
-chocolateBars.unshift()
+chocolateBars.unshift(snickers)
