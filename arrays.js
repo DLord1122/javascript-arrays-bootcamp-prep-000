@@ -8,4 +8,4 @@ function destructivelyRemoveElementFromBeginningOfArray(array){array.shift();ret
 function removeElementFromBeginningOfArray(array){return array.slice(1)}
 function destructivelyRemoveElementFromEndOfArray(array){array.pop();return array}
 function removeElementFromEndOfArray(array){return array.push()}
-function removeElementFromEndOfArray(array){return array.push(3)}
+function removeElementFromEndOfArray(array){return array.push(1,2)}
