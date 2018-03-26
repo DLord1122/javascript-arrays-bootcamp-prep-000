@@ -1,2 +1,2 @@
 function addElementToBeginningOfArray(chocolateBars, candyString){return [candyString,...chocolateBars]}
-function desctructivelyAddElementToBeginningOfArray(array, element){[array.unshift(element)];return lolipop}
+function desctructivelyAddElementToBeginningOfArray(array, element){array.unshift(element);return array}
