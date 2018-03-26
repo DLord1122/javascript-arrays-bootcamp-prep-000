@@ -5,4 +5,4 @@ function addElementToEndOfArray(array, element){return[...array,element];}
 function destructivelyAddElementToEndOfArray(array, element){array.push(element); return array}
 function accessElementInArray(array, index){return array [index]}
 function destructivelyRemoveElementFromBeginningOfArray(array){array.shift()}
-function destructivelyRemoveElementFromBeginningOfArray(array){array.shift(0)}
+function destructivelyRemoveElementFromBeginningOfArray(array){array.shift(1)}
