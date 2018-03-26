@@ -1,1 +1,1 @@
-function addElementToBeginningOfArray(array, element)
+var addElementToBeginningOfArray[array, element]
