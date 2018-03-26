@@ -1,1 +1,1 @@
-chocolateBars.unshift(snickers)
+function addElementToBeginningOfArray(array, element)
